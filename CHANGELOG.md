@@ -2,6 +2,10 @@
 All notable changes to this project will be documented in this file.
 
 
+## 0.0.1.1 - 2017-01-13
+### Added
+- exam calendar generator documentation
+
 ## 0.0.1 - 2017-01-13
 ### Added
 - exam calendar .ics generator

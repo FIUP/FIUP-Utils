@@ -1,0 +1,14 @@
+\indexentry{src \textit{(package)}|(hyperpage}{2}
+\indexentry{src \textit{(package)}|)hyperpage}{2}
+\indexentry{src \textit{(package)}!src.fiup\_exams\_calendar \textit{(module)}|(hyperpage}{3}
+\indexentry{src \textit{(package)}!src.fiup\_exams\_calendar \textit{(module)}!src.fiup\_exams\_calendar.get\_exams \textit{(function)}|hyperpage}{3}
+\indexentry{src \textit{(package)}!src.fiup\_exams\_calendar \textit{(module)}!src.fiup\_exams\_calendar.convert\_to\_calendar \textit{(function)}|hyperpage}{3}
+\indexentry{src \textit{(package)}!src.fiup\_exams\_calendar \textit{(module)}!src.fiup\_exams\_calendar.Exam \textit{(class)}|(hyperpage}{3}
+\indexentry{src \textit{(package)}!src.fiup\_exams\_calendar \textit{(module)}!src.fiup\_exams\_calendar.Exam \textit{(class)}|)hyperpage}{4}
+\indexentry{src \textit{(package)}!src.fiup\_exams\_calendar \textit{(module)}|)hyperpage}{4}
+\indexentry{src \textit{(package)}!src.parser \textit{(module)}|(hyperpage}{5}
+\indexentry{src \textit{(package)}!src.parser \textit{(module)}!src.parser.get\_events \textit{(function)}|hyperpage}{5}
+\indexentry{src \textit{(package)}!src.parser \textit{(module)}!src.parser.convert\_to\_calendar \textit{(function)}|hyperpage}{5}
+\indexentry{src \textit{(package)}!src.parser \textit{(module)}!src.parser.CalendarEvent \textit{(class)}|(hyperpage}{5}
+\indexentry{src \textit{(package)}!src.parser \textit{(module)}!src.parser.CalendarEvent \textit{(class)}|)hyperpage}{6}
+\indexentry{src \textit{(package)}!src.parser \textit{(module)}|)hyperpage}{6}

@@ -1,0 +1,16 @@
+\contentsline {section}{Contents}{1}{section*.1}
+\contentsline {section}{\numberline {1}Package src}{2}{section.1}
+\contentsline {subsection}{\numberline {1.1}Modules}{2}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Variables}{2}{subsection.1.2}
+\contentsline {section}{\numberline {2}Module src.fiup\_exams\_calendar}{3}{section.2}
+\contentsline {subsection}{\numberline {2.1}Functions}{3}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Variables}{3}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Class Exam}{3}{subsection.2.3}
+\contentsline {subsubsection}{\numberline {2.3.1}Methods}{3}{subsubsection.2.3.1}
+\contentsline {subsubsection}{\numberline {2.3.2}Properties}{3}{subsubsection.2.3.2}
+\contentsline {section}{\numberline {3}Module src.parser}{5}{section.3}
+\contentsline {subsection}{\numberline {3.1}Functions}{5}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Class CalendarEvent}{5}{subsection.3.2}
+\contentsline {subsubsection}{\numberline {3.2.1}Methods}{5}{subsubsection.3.2.1}
+\contentsline {subsubsection}{\numberline {3.2.2}Properties}{5}{subsubsection.3.2.2}
+\contentsline {section}{Index}{7}{section*.2}

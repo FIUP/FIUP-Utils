@@ -1,0 +1,20 @@
+\begin{theindex}
+
+  \item src \textit{(package)}, \hyperpage{2}
+    \subitem src.fiup\_exams\_calendar \textit{(module)}, 
+		\hyperpage{3--4}
+      \subsubitem src.fiup\_exams\_calendar.convert\_to\_calendar \textit{(function)}, 
+		\hyperpage{3}
+      \subsubitem src.fiup\_exams\_calendar.Exam \textit{(class)}, 
+		\hyperpage{3--4}
+      \subsubitem src.fiup\_exams\_calendar.get\_exams \textit{(function)}, 
+		\hyperpage{3}
+    \subitem src.parser \textit{(module)}, \hyperpage{5--6}
+      \subsubitem src.parser.CalendarEvent \textit{(class)}, 
+		\hyperpage{5--6}
+      \subsubitem src.parser.convert\_to\_calendar \textit{(function)}, 
+		\hyperpage{5}
+      \subsubitem src.parser.get\_events \textit{(function)}, 
+		\hyperpage{5}
+
+\end{theindex}

@@ -1,0 +1,15 @@
+src	src-module.html
+src.__package__	src-module.html#__package__
+src.fiup_exams_calendar	src.fiup_exams_calendar-module.html
+src.fiup_exams_calendar.EXAM_DIVISOR	src.fiup_exams_calendar-module.html#EXAM_DIVISOR
+src.fiup_exams_calendar.URL	src.fiup_exams_calendar-module.html#URL
+src.fiup_exams_calendar.get_exams	src.fiup_exams_calendar-module.html#get_exams
+src.fiup_exams_calendar.convert_to_calendar	src.fiup_exams_calendar-module.html#convert_to_calendar
+src.parser	src.parser-module.html
+src.parser.get_events	src.parser-module.html#get_events
+src.parser.convert_to_calendar	src.parser-module.html#convert_to_calendar
+src.fiup_exams_calendar.Exam	src.fiup_exams_calendar.Exam-class.html
+src.fiup_exams_calendar.Exam.__init__	src.fiup_exams_calendar.Exam-class.html#__init__
+src.parser.CalendarEvent	src.parser.CalendarEvent-class.html
+src.parser.CalendarEvent.__str__	src.parser.CalendarEvent-class.html#__str__
+src.parser.CalendarEvent.__init__	src.parser.CalendarEvent-class.html#__init__

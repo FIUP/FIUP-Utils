@@ -1,0 +1,16 @@
+\BOOKMARK [1][-]{section*.1}{Contents}{}% 1
+\BOOKMARK [1][-]{section.1}{Package src}{}% 2
+\BOOKMARK [2][-]{subsection.1.1}{Modules}{section.1}% 3
+\BOOKMARK [2][-]{subsection.1.2}{Variables}{section.1}% 4
+\BOOKMARK [1][-]{section.2}{Module src.fiup\137exams\137calendar}{}% 5
+\BOOKMARK [2][-]{subsection.2.1}{Functions}{section.2}% 6
+\BOOKMARK [2][-]{subsection.2.2}{Variables}{section.2}% 7
+\BOOKMARK [2][-]{subsection.2.3}{Class Exam}{section.2}% 8
+\BOOKMARK [3][-]{subsubsection.2.3.1}{Methods}{subsection.2.3}% 9
+\BOOKMARK [3][-]{subsubsection.2.3.2}{Properties}{subsection.2.3}% 10
+\BOOKMARK [1][-]{section.3}{Module src.parser}{}% 11
+\BOOKMARK [2][-]{subsection.3.1}{Functions}{section.3}% 12
+\BOOKMARK [2][-]{subsection.3.2}{Class CalendarEvent}{section.3}% 13
+\BOOKMARK [3][-]{subsubsection.3.2.1}{Methods}{subsection.3.2}% 14
+\BOOKMARK [3][-]{subsubsection.3.2.2}{Properties}{subsection.3.2}% 15
+\BOOKMARK [1][-]{section*.2}{Index}{}% 16
